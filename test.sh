@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cat /etc/init.d/dropbear
+cat /etc/hosts
 
 reboot
