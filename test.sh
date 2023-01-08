@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cat /etc/hosts
+ls /etc/
 
 reboot
