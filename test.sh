@@ -1,5 +1,5 @@
 #!/bin/sh
 
-ls /etc/
+nvram list
 
 reboot
